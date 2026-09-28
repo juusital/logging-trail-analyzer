@@ -26,3 +26,16 @@ Silva Fennica 60(3), article 26018.**
 https://doi.org/10.14214/sf.26018
 
 The study introduces spatial configuration metrics for evaluating logging trail networks beyond conventional measures such as trail density and mean trail spacing.
+## Usage
+
+Run the LTA scripts from the repository root directory.
+
+The example workflow for Site 02 uses the GNSS tracks in `data/example/site02/Trails2.shp` and the harvesting-site boundary in `data/example/site02/Area2.shp`.
+
+Run the scripts in the following order:
+
+```bash
+python lta/UpdatedCenterLines.py
+python lta/ToMachinePasses.py
+python lta/Vis_Trail.py
+
