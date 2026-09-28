@@ -1,1 +1,9 @@
-
+geopandas
+numpy
+rasterio
+scipy
+matplotlib
+pygeoops
+shapely
+scikit-learn
+opencv-python
