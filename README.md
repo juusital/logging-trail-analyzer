@@ -19,7 +19,7 @@ The analysis includes measures of trail length and density, machine travel dista
 
 The methodology is associated with the research article:
 
-**Uusitalo, J., Abdi, O., Mao, Z. & Cao, S. (2026).  
+**Uusitalo, J., Mao, Z., Cao, S. & Abdi, O. (2026).  
 Assessing logging trail network performance using spatial configuration metrics.  
 Silva Fennica 60(3), article 26018.**
 
